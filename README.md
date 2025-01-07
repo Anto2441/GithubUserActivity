@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-The **GitHub User Activity CLI** is a simple command-line application that allows you to fetch and display a GitHub user's recent activity directly in your terminal. This tool is ideal for practicing Node.js skills, including working with APIs, handling JSON data, and building CLI applications.
+The **GitHub User Activity CLI** is a simple command-line application that allows you to fetch and display a GitHub user's recent activity directly in your terminal. This tool is using Node.js, including working with APIs, handling JSON data, and building CLI applications.
 
 ---
 
