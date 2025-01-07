@@ -1,5 +1,8 @@
 # GitHub User Activity CLI
 
+![Capture d’écran 2025-01-07 à 10 02 38](https://github.com/user-attachments/assets/69e81fe3-a49c-432b-9555-e0d6f5113311)
+
+
 ## Project Overview
 
 The **GitHub User Activity CLI** is a simple command-line application that allows you to fetch and display a GitHub user's recent activity directly in your terminal. This tool is ideal for practicing Node.js skills, including working with APIs, handling JSON data, and building CLI applications.
@@ -156,18 +159,4 @@ node src/index.js kamranahmedse
 - API failures (e.g., rate limiting): Displays an error message and logs the issue.
 - Empty results: Notifies the user if no events match the filter criteria.
 
----
-
-## Future Enhancements
-
-- Cache results locally to reduce API requests.
-- Add support for pagination.
-- Include more detailed event information (e.g., commit messages for `PushEvent`).
-- Allow filtering by date range.
-- Add tests to validate CLI functionality.
-
----
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
+## Enjoy ! 🚀
